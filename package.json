@@ -1,6 +1,9 @@
 {
+    "coffee-script": "latest",
+    "coffee-script": "latest",
+    "coffee-script": "latest",
   "name": "react-compact-colorpicker",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "a very lightweight color picking react component",
   "main": "build/colorpicker.js",
   "repository": {
@@ -18,5 +21,11 @@
   "homepage": "https://github.com/tscholl2/react-compact-colorpicker",
   "dependencies": {
     "react": "^0.13"
+  },
+  "devDependencies": {
+    "webpack": "latest",
+    "cjsx-loader": "latest",
+    "coffee-loader": "latest",
+    "coffee-react": "latest"
   }
 }
