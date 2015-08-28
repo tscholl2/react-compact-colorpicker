@@ -1,7 +1,4 @@
 {
-    "coffee-script": "latest",
-    "coffee-script": "latest",
-    "coffee-script": "latest",
   "name": "react-compact-colorpicker",
   "version": "0.0.1",
   "description": "a very lightweight color picking react component",
@@ -26,6 +23,7 @@
     "webpack": "latest",
     "cjsx-loader": "latest",
     "coffee-loader": "latest",
-    "coffee-react": "latest"
+    "coffee-react": "latest",
+    "webpack-dev-server": "latest"
   }
 }
