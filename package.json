@@ -16,7 +16,7 @@
   "author": "Travis Scholl",
   "license": "Public Domain",
   "homepage": "https://github.com/tscholl2/react-compact-colorpicker",
-  "dependencies": {
+  "peerDependencies": {
     "react": "^0.13"
   }
 }
