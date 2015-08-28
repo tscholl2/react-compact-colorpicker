@@ -1,6 +1,6 @@
 A very lightweight colorpicker. Just `ColorPicker = require "react-compact-colorpicker"` (for coffeescript) and `<ColorPicker onChange={(c) -> console.log c} />` to use! You can give it a color to start off with. See the `dev` branch for examples.
 
-Was originally created as part of something for SageMathCloud.
+Was originally created as part of something for [SageMathCloud](https://cloud.sagemath.com/).
 
 Seems to work on mobile magically.
 
