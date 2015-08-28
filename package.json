@@ -2,7 +2,7 @@
   "name": "react-compact-colorpicker",
   "version": "0.0.1",
   "description": "a very lightweight color picking react component",
-  "main": "build/colorpicker.js",
+  "main": "build/ColorPicker.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/tscholl2/react-compact-colorpicker"
