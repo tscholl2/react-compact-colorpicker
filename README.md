@@ -1,5 +1,5 @@
-A very lightweight colorpicker. Just `ColorPicker = require "react-compact-colorpicker"` (for coffeescript) and `<ColorPicker onChange={(c) -> console.log c} />` to use! You can give it a color to start off with.
+The dev branch is for editing the source and rebuilding.
 
-Was originally created as part of something for SageMathCloud.
+To recompile: checkout the dev branch and run `npm install` (if you haven't) and `make`.
 
-Seems to work on mobile magically.
+There is a webpack config file all set to go so you can use that also. You can also use `make dev` to start up the hot-reloading webpack-dev-server.
