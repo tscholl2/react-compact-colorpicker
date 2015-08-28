@@ -4,6 +4,6 @@ build/ColorPicker.js: src/ColorPicker.cjsx
 	./node_modules/coffee-react/bin/cjsx --bare --compile --output build/ src/ColorPicker.cjsx
 
 dev:
-	node node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --no-info
+	node node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --inline
 
 .PHONY: default dev
