@@ -1,5 +1,7 @@
 A very lightweight colorpicker. It has no dependencies to use and barely adds any size to your project. The source code is less than 70 lines (and more than 10 of those are licensing).
 
+[Try a demo](http://tscholl2.github.io/react-compact-colorpicker/).
+
 Just use
 ```
 ColorPicker = require "react-compact-colorpicker"
@@ -13,4 +15,3 @@ Seems to work on mobile magically.
 
 ![gif](http://tscholl2.github.io/react-compact-colorpicker/screen.gif)
 
-[Demo](http://tscholl2.github.io/react-compact-colorpicker/)
